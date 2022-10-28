@@ -1,3 +1,44 @@
-*,*::before,*::after{
-    margin: 0;
+header h2{
+    font-family: 'Inconsolata', monospace;
+    font-size: 24px;
+    line-height: 25.18px;
+    color: #333;/* hexadecimal #333333 replaza #333 */
+}
+#scarecrow{
+    margin-left: 44px;
+    margin-right: 44px;
+    width: 286.83px;
+    height: 238px;
+}
+#scarecrow img{
+    width: 100%;
+}
+#other h1{
+    font-family: 'Space Mono' monospace;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 71.09px;
+}
+#other p{
+    font-family: 'Space Mono monospace';
+    background-color: #333;
+
+}
+#other button{
+    width: 216px;
+    height: 68px;
+    background-color: #333;
+    color: #fff;
+    font-family: 'Space mono' monospace;
+    font-weight: 700px;
+    font-size: 14px;
+    line-height: 20.73px;
+    border: none;
+}
+footer p{
+    font-family: 'Montserrat' sans-serif;
+    font-size: 14px;
+    line-height: 17.07px;
+    text-align: center;
+    color: #bdbdbd;
 }
