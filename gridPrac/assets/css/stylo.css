@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.grid{
+    width: 70%;
+    margin: 80px, auto;
+
+    display: grid;
+
+}
+.grid_img{
+    width: 100%;
+}
